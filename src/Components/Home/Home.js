@@ -6,6 +6,8 @@ import { About } from "./Middle/About";
 import { Company } from "./Middle/Compay";
 import { Footer } from "./Middle/Footer";
 import { Cards } from "./Middle/Card";
+import { Contact } from "./Middle/Contact";
+
 
 
 
@@ -19,6 +21,7 @@ export const Home =()=>{
         <Cards />
         <About />
         <Company />
+        <Contact />
         <Footer />
         
         </>

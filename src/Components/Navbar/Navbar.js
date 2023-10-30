@@ -62,7 +62,7 @@ export const Navbar=()=>  {
           <a href="http://localhost:3000/prep" className="text-sm font-semibold leading-6 text-gray-900">
             In-Prep
           </a>
-          <a href="#" className="text-sm font-semibold leading-6 text-gray-900">
+          <a href="http://localhost:3000/mock" className="text-sm font-semibold leading-6 text-gray-900">
             Mock [TOEFL/IELTS]
           </a>
         </Popover.Group>

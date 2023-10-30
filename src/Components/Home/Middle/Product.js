@@ -7,7 +7,7 @@ const navigation = [
   { name: 'Home', href: 'http://localhost:3000' },
   { name: 'Teach & Train', href: 'http://localhost:3000/teach' },
   { name: 'In-Prep AI', href: 'http://localhost:3000/prep' },
-  { name: 'Mock [TOEFL/IELTS]', href: '#' },
+  { name: 'Mock [TOEFL/IELTS]', href: 'http://localhost:3000/mock' },
 ]
 
 export const Product=()=> {

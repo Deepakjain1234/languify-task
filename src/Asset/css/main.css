@@ -160,3 +160,10 @@ h1
 {
     width:43%
 }
+.contact-form
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
