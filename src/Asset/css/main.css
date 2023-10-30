@@ -1,0 +1,162 @@
+/* 
+h1
+{
+    color:green
+} */
+.flex-heading{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 90vh;
+    background:linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)),url('../image/back1.jpg');
+    
+
+}
+
+.main-heading
+{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.main-heading h1
+{
+    font-size: 62px;
+}
+.flex-about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 18px 0px;
+}
+
+.inner-about
+{
+    display: flex;
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.video-play
+{
+    height: 123px;
+}
+.about-box
+{
+    display: flex;
+    margin: 10px 0px;
+    justify-content: space-between;
+}
+.inner-about h2 {
+    font-size: 30px;
+    color: #734ee0;
+    font-size: 47px;
+}
+
+.interview-section
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 33px;
+}
+.inner-interview
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner-interview h1 {
+    font-size: 45px;
+    margin: 13px;
+    color: #724dde;
+    font-weight: 600;
+}
+.inner-interview h3
+{
+  font-size: 17px;
+  margin-bottom: 33px;
+}
+.main-interview
+{
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+}
+
+.interview-box {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid blue;
+    width: 300px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    padding: 19px 0px;
+}
+
+.select-box
+{
+    height: 41px;
+    font-size: 19px;
+    margin: 7px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.select-box:hover
+{
+    cursor: pointer;
+}
+.select-box1 {
+    height: 41px;
+    background-color: rgb(115, 78, 224);
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 3px;
+    font-size: 19px;
+    margin: 7px 0px;
+}
+.larger
+{
+    width: 285px !important;
+}
+.select-box1:hover
+{
+    cursor: pointer;
+}
+
+.start-button{
+    /* height: 40px; */
+    font-size: 28px;
+    background-color: #734ee0;
+    margin-top: 25px;
+    color: white;
+    padding: 10px 50px;
+    border-radius: 10px;
+}
+
+.main-heading h1 {
+    font-size: 94px;
+    font-weight: 600;
+    color: white;
+}
+
+.paragraph-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 46%;
+}
+
+.video-box
+{
+    width:43%
+}
